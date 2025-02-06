@@ -52,6 +52,37 @@ Tabela de conteúdos
 
 <img src="./src/images/PokemonsMobile.gif">
 
+
+<h1 align="center">⚙️ Instalação</h1>
+<p>1º - Clone o repositório, com o uso do terminal realizando o comando, git clone https://github.com/Carvalhorp2022/quest-testeTecnico-pokemons.git, e depois o comando para entrar na pasta do projeto, comando cd quest-testeTecnico-pokemons</p>
+<img src="./src/images/terminalClone.png.png">
+
+<p>2º - Instale as dependências, realinzando o seguinte comando, npm install. Aqui será instalado node_modules, package-lock.json, package.json</p>
+
+<p>3º - Inicie o servidor de desenvolvimento, realinzando o seguinte comando, npm run dev</p>
+<img src="./src/images/terminalIniciarServidor.png">
+
+<h1 align="center">🧪 Executando Testes</h1>
+
+<p>O projeto utiliza Jest e React Testing Library para validar funcionalidades críticas.</p>
+
+<h1>🗒️ Testes Implementados</h1>
+
+<p>✅ Renderização do título "Quest Pokémons"</p>
+
+<p>✅ Alternância de tema (claro/escuro)</p>
+
+<p>✅ Pesquisa por nome de Pokémon</p>
+
+<p>✅ Carregamento de mais Pokémons</p>
+
+<p>➡️Para rodar os testes, siga o seguinte comando no terminal: npm test </p>
+<img src="./src/images/rodarTeste.png">
+
+<h1 align="center">📂 Estrutura do Projeto</h1>
+<img src="./src/images/estruturaProjeto.png">
+
+
 <p >Para uma melhor experiência acessem:
       <a  href=https://carvalhorp2022.github.io/form-with-validation/ target="_blank">Formulário</a>
 </p>
