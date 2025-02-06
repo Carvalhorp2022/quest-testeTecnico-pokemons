@@ -4,8 +4,11 @@ Tabela de conteúdos
 =================
 
    * Sobre o projeto
-   * Tecnologias
+   * Funcionalidades
+   * Tecnologias utilizadas
    * Layout
+   * Executando Testes
+   * Testes Implementados
 ## Sobre o Projeto
 
 <p>Bem seguindo os módulos do curso <a  href=https://evento.devemdobro.com/matriculas-abertas/ target="_blank">DevQuest Full-Stack</a>, agora no módulo React Avançado, sendo como um Teste Técnico, o projeto foi desenvolvido com React, possui alternância entre tema claro e escuro, pesquisa por nome e tipo, além de exibir detalhes de cada Pokémon em um layout responsivo, para se adaptar a diferentes tamanhos de tela, para uma melhor experiência do usuário, não posso também de comentar que foi Implementado testes utilizando jest. Sem dúvida o desafio mais dificil que eu enfrentei até o momento, por toda tecnologia utilizada, tentar expor praticamente tudo o que foi absorvido no curso até o momento, por tudo que foi pedido para ser executado, por mais simples que pareça, saindo do zero e entregar essa QUEST é algo diferenciado.</p>
