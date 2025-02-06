@@ -58,7 +58,7 @@ Tabela de conteúdos
 
 <h1 align="center">⚙️ Instalação</h1>
 <p>1º - Clone o repositório, com o uso do terminal realizando o comando, git clone https://github.com/Carvalhorp2022/quest-testeTecnico-pokemons.git, e depois o comando para entrar na pasta do projeto, comando cd quest-testeTecnico-pokemons</p>
-<img src="./src/images/terminalClone.png.png">
+<img src="./src/images/terminalClone.png">
 
 <p>2º - Instale as dependências, realinzando o seguinte comando, npm install. Aqui será instalado node_modules, package-lock.json, package.json</p>
 
