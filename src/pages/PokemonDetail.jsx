@@ -69,7 +69,7 @@ const PokemonDetail = () => {
     fetchPokemon();
   }, [id]);
 
-  if (!pokemon) return <DetailContainer>Carregando...</DetailContainer>;
+  if (!pokemon) return <DetailContainer>Carregando➡️➡️➡️</DetailContainer>;
 
   return (
     <DetailContainer>
